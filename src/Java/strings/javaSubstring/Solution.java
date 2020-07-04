@@ -1,10 +1,6 @@
-package strings.javaSubstring;
+package Java.strings.javaSubstring;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 

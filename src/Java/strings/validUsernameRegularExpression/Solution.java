@@ -1,4 +1,4 @@
-package strings.validUsernameRegularExpression;
+package Java.strings.validUsernameRegularExpression;
 
 import java.util.Scanner;
 class UsernameValidator {
